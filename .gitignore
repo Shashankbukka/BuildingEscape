@@ -1,0 +1,15 @@
+*/Build
+*/Binaries
+*/Intermediate
+*/DerivedDataCache
+*/Saved
+EscapeTheBuilding/Content/StarterContent/
+
+*.VC.db
+*.VC
+
+
+EscapeTheBuilding/.vs/EscapeTheBuilding/v15/Solution.VC.db-shm
+EscapeTheBuilding/.vs/EscapeTheBuilding/v15/Solution.VC.db-wal
+EscapeTheBuilding/.vs/EscapeTheBuilding/v15/Server/sqlite3/storage.ide
+EscapeTheBuilding/.vs/EscapeTheBuilding/v15/Server/sqlite3/db.lock

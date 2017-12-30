@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{126F4568-4C78-A4FE-BB40-E5882B7C55C6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EscapeTheBuilding",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
